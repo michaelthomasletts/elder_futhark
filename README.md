@@ -17,7 +17,7 @@ straightened and a few slips corrected.
 - 24 Elder Futhark runes plus three runic word separators (᛫ ᛬ ᛭)
 - Type with an ordinary keyboard: `hello` becomes ᚺᛖᛚᛟ
 - Automatic ligatures: **th** → ᚦ, **ng** → ᛜ, **ae** → ᛇ
-- Optional phonetic spelling (**ph** → ᚠ, **x** → ᚲᛊ, and more)
+- Optional phonetic spelling (**ph** → ᚠ, **x** → ᚲᛊ, **oo** → ᚢ, and more)
 - Real Unicode runic text (ᚠᚢᚦᚨᚱᚲ) works too
 - Regular and Bold weights, about 9 KB each as WOFF2
 
@@ -108,6 +108,19 @@ It's off by default:
 | qu (*queen*) | ᚲᚢ | ᚲᚹ |
 | x (*fox*) | ᚲ | ᚲᛊ |
 | ei (*their*) | ᛖᛁ | ᛇ |
+| oo (*moon*) | ᛟ | ᚢ |
+| ue, ew (*blue*, *new*) | ᚢᛖ, ᛖᚹ | ᚢ |
+| ee (*see*) | ᛖ | ᛁ |
+| oa (*boat*) | ᛟᚨ | ᛟ |
+| c before e, i, y (*city*, *ice*) | ᚲ | ᛊ |
+| sh (*ship*) | ᛊᚺ | ᛊ |
+| wh (*what*) | ᚹᚺ | ᚹ |
+| wr (*write*) | ᚹᚱ | ᚱ |
+| kn (*knight*) | ᚲᚾ | ᚾ |
+| dg (*edge*) | ᛞᚷ | ᛃ |
+
+These follow common English spelling, so some words come out wrong:
+*book* and *door* get ᚢ, *koala* loses its ᚨ, and *guess* gets ᚢ.
 
 To turn it on:
 
