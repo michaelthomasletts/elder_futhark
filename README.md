@@ -142,7 +142,7 @@ Pages and the Adobe apps. In Microsoft Word, turn them on under
 |---|---|
 | [`fonts/`](fonts/) | The font: `.woff2` for the web, `.otf` for desktop |
 | [`svg/`](svg/) | Each rune as a standalone SVG, for icons, print or laser cutting |
-| [`index.html`](docs/index.html) | The live demo page, served by GitHub Pages |
+| [`docs/index.html`](docs/index.html) | The live demo page, served by GitHub Pages |
 | [`images/`](images/) | The preview image in this README |
 
 ## License
